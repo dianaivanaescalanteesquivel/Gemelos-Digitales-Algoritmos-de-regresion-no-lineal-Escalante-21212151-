@@ -11,21 +11,21 @@ authors:
   - given-names: Diana Ivana
     family-names: Escalante Esquivel
     email: l21212151@tectijuana.edu.mx
-    affiliation: Tecnológico Nacional de MéXICO
+    affiliation: Tecnológico Nacional de México
 repository-code: >-
-  https://github.com/dianaivanaescalanteesquivel/Gemelos-Digitales-Leyes-de-Crecimiento-Exponencial-Escalante-21212151-/tree/main
+  https://github.com/dianaivanaescalanteesquivel/Gemelos-Digitales-Algoritmos-de-regresion-no-lineal-Escalante-21212151-/tree/main
 abstract: |-
   Tecnológico Nacional de México
   Instituto Tecnológico de Tijuana
   Ingeniería Biomédica
   Gemelos Digitales
-  Práctica 1: Leyes de Crecimiento Exponencial
+  Práctica 2: Algoritmos de regresión no lineal
 keywords:
-  - Ley de crecimiento exponencial
-  - Método de Heun
-  - Nanohidrogeles
-  - Tasa de liberación de fármaco
-  - Farmacocinética
-  - Protocolo basado en modelos
+  - Crecimiento sigmoidal
+  - Crecimiento logístico
+  - Crecimiento alométrico esférico
+  - Crecimiento alométrico fractal
+  - Crecimiento de Gompertz normal
+  - Crecimiento de Gompertz simplificado
 license: BSD-2-Clause
-date-released: '2025-02-10'
+date-released: '2025-03-24'
