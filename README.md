@@ -2,7 +2,7 @@
 Práctica 3: Algoritmos de regresión no lineal
 
 ## Autor
-Diana Ivana Escalante Esquivel
+Diana Ivana Escalante Esquivel,
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: paul.valle@tectijuana.edu.mx
 
 ## Resumen de la práctica
@@ -15,7 +15,7 @@ En esta práctica, se implementará el métodos de Heun, para desarrollar un alg
 4. Calcular los parámetros estadísticos clave del sistema.
 
 ## Docente
-Dr. Paul Antonio Valle Trujillo
+Dr. Paul Antonio Valle Trujillo,
 Posgrado en Ciencias de la Ingeniería [PCI] y Departamento de Ingeniería Eléctrica y Electrónica [DIEE], Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: paul.valle@tectijuana.edu.mx
 
 ## Lecturas
