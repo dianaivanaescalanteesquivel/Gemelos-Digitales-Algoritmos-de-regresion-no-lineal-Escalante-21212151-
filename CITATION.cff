@@ -13,19 +13,21 @@ authors:
     email: l21212151@tectijuana.edu.mx
     affiliation: Tecnológico Nacional de México
 repository-code: >-
-  https://github.com/dianaivanaescalanteesquivel/Gemelos-Digitales-Algoritmos-de-regresion-no-lineal-Escalante-21212151-/tree/main
+ https://github.com/dianaivanaescalanteesquivel/Gemelos-Digitales-Proyecto-Final-Escalante-21212151-/tree/main
 abstract: |-
   Tecnológico Nacional de México
   Instituto Tecnológico de Tijuana
   Ingeniería Biomédica
   Gemelos Digitales
-  Práctica 3: Algoritmos de regresión no lineal
+  Proyecto Final: Proceso de Inflamación (3 Poblaciones)
 keywords:
-  - Crecimiento sigmoidal
-  - Crecimiento logístico
-  - Crecimiento alométrico esférico
-  - Crecimiento alométrico fractal
-  - Crecimiento de Gompertz normal
-  - Crecimiento de Gompertz simplificado
+  - Ecuaciones Diferenciales Ordinarias
+  - Método de Heun
+  - Predicción
+  - Sistema de 3 poblaciones
+  - Proceso de inflamación
+  - Macrófagos
+  - Citoquinas inflamatorias
+  - Células dañadas
 license: BSD-2-Clause
-date-released: '2025-03-24'
+date-released: '2025-06-02'
